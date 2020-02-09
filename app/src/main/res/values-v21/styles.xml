@@ -1,0 +1,9 @@
+<resources>
+
+    <!--Цвет поля ввода в неактивном и активном состоянии-->
+    <style name="EditTextStyle" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlNormal">@android:color/darker_gray</item>
+        <item name="android:colorControlActivated">@android:color/holo_blue_bright</item>
+    </style>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Kotlin1</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="title">Заголовок</string>
+    <string name="note_text">Текст заметки</string>
+    <string name="new_note_title">Новая заметка</string>
+    <string name="my_notes">Мои заметки</string>
+</resources>
